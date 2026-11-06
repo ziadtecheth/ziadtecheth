@@ -13,4 +13,4 @@ Here are a few: <br/>
 - Fam: Platform for on-chain music community funding and collaboration 💸. [Try it](https://app.withfam.xyz/). <br/>
 - Diverse projects at [Session](https://session-pied.vercel.app/) 📀 and [Rxd-Co](https://rxdco.com/) 📦 utilizing a range of technologies including AWS, Hubspot, Supabase, Firebase, and the MERN stack. <br/>
 
-- [...](https://github.com/techeng322?tab=repositories)
+- [...](https://github.com/ziadtecheth?tab=repositories)
